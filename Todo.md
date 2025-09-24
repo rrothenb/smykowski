@@ -23,3 +23,9 @@ Potential use cases
 
 My first use cases should not require the process MCP server
 - Practically speaking, I won't know what sorts of things I'll want Tom to do until I have some experience trying to manage a project myself using the available GitHub tools
+
+Very first step is installing claude code and hooking up the github MCP server and trying to use issues, projects, and wikis
+
+First two steps
+- trying to use issues, projects, and wikis manually on smykowski
+- installing claude code and hooking up the github MCP server and trying to continue using issues, projects, and wikis via claude
